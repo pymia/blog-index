@@ -3,13 +3,13 @@ copyright: Copyright &copy; 2019 - 2020 pymia
 theme:
   custom_dir: overrides
   icon:
-    logo: material/bookshelf
+    logo: material/bookmark-outline
   font:
     text: Noto Sans TC
   language: zh-TW
   name: material
   palette:
-    primary: teal
+    primary: blue grey
     scheme: preference
   features:
     - navigation.instant
@@ -22,11 +22,13 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/telegram
-      link: https://t.me/technologynote
+      link: https://t.me/MLOps_News
     - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/technologynoteniu
+      link: https://www.facebook.com/bymiachang.tw
     - icon: fontawesome/brands/github
-      link: https://github.com/technologynoteniu
+      link: https://github.com/pymia
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/@Mia.Chang
 
 markdown_extensions:
   - toc:
